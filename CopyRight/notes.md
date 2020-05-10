@@ -9,3 +9,8 @@
   + If your software uses a lot audio-visual components, such as .avi files, animated graphics or streaming video, register it as a "motion picture/audiovisual work."
 + Preregistration is designed to protect a work still in development from infringement. It does not replace registration, but it allows the developer to sue someone else for infringement that occurs before the final version is released or published
 + Once you pre-register your work, you must register it within 3 months after you publish or produce it or within a month after you become aware someone has infringed your copyright. If you don't register within this time, any court must dismiss a suit brought prior to or within the first 2 months after publication.
++ Copyright application can be filled in 3 ways
+  + Online through its electronic Copyright Office (eCO)
+  + Completing fill-in Form CO on your personal computer
+  + Obtaining a paper form from the Copyright Office
+  
